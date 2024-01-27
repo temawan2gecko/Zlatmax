@@ -394,7 +394,7 @@ html, body {
 }
 .list-contacts__phone::before {
   position: absolute;
-  content: url(./img/phone.svg);
+  content: url(../img/phone.svg);
   left: 0;
 }
 .list-contacts__text {
@@ -403,7 +403,7 @@ html, body {
 }
 .list-contacts__text::before {
   position: absolute;
-  content: url(./img/time.svg);
+  content: url(../img/time.svg);
   left: 0;
 }
 .list-contacts__address {
@@ -412,7 +412,7 @@ html, body {
 }
 .list-contacts__address::before {
   position: absolute;
-  content: url(./img/city-white.svg);
+  content: url(../img/city-white.svg);
   left: 0;
 }
 .list-contacts__mail {
@@ -421,7 +421,7 @@ html, body {
 }
 .list-contacts__mail::before {
   position: absolute;
-  content: url(./img/mail.svg);
+  content: url(../img/mail.svg);
   left: 0;
 }
 
@@ -500,7 +500,7 @@ html, body {
 }
 .top-header__user::before {
   position: absolute;
-  content: url(./img/user-icon.svg);
+  content: url(../img/user-icon.svg);
   left: 0;
   top: 0;
 }
@@ -635,7 +635,7 @@ html, body {
 }
 .actions-header__location::before {
   position: absolute;
-  content: url(./img/city.svg);
+  content: url(../img/city.svg);
   left: 0;
   bottom: 0;
   width: 17px;
@@ -893,7 +893,7 @@ html, body {
 }
 
 .main-slider {
-  background-image: url(./img/slider/background.png);
+  background-image: url(../img/slider/background.png);
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1155,7 +1155,7 @@ html, body {
 }
 
 .new {
-  background-image: url(./img/slider/background.png);
+  background-image: url(../img/slider/background.png);
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1194,7 +1194,7 @@ html, body {
 }
 .info-new__link::after {
   position: absolute;
-  content: url(./img/arrow-right.svg);
+  content: url(../img/arrow-right.svg);
   right: 0;
   transform: scale(0.8);
 }
@@ -1267,7 +1267,7 @@ html, body {
 }
 .products__catalog::after {
   position: absolute;
-  content: url(./img/arrow-right.svg);
+  content: url(../img/arrow-right.svg);
   right: 0;
   bottom: -2px;
   transform: scale(0.7);
@@ -1349,7 +1349,7 @@ html, body {
 }
 .item-products__span::before {
   position: absolute;
-  content: url(./img/cart-white.svg);
+  content: url(../img/cart-white.svg);
   right: 0;
 }
 
@@ -1387,7 +1387,7 @@ html, body {
 }
 
 .shop {
-  background-image: url(./img/slider/background.png);
+  background-image: url(../img/slider/background.png);
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
